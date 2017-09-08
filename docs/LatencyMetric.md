@@ -1,0 +1,12 @@
+# IO.Swagger.Model.LatencyMetric
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Count** | **long?** |  | [optional] 
+**Date** | **DateTime?** |  | [optional] 
+**LatencyMillis** | **long?** |  | [optional] 
+**TotalLatency** | **long?** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
